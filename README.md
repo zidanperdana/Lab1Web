@@ -60,3 +60,7 @@ terakhir yaitu cara membuat hyperlink
 berikut tampilan di web nya
 
 ![Tampilan Hyperlink di Web](https://github.com/zidanperdana/Lab1Web/assets/116040175/3af6f63a-d1f3-40d3-8ecd-2503928f8aab)
+
+Validasi dokumen HTML
+
+![Validasi Dokumen](https://github.com/zidanperdana/Lab1Web/assets/116040175/1a7492ac-98b9-4c45-aa68-8f85e5ceb503)
